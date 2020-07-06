@@ -1,6 +1,6 @@
-#OHClock
+# OHClock
 
-Smart Clock with Nax7219 Module & Wemos D1 Mini Module
+Smart Clock with Max7219 Module & Wemos D1 Mini Module
 
 
 ## Used Libraries
@@ -10,4 +10,4 @@ Smart Clock with Nax7219 Module & Wemos D1 Mini Module
 - TimeLib.h https://github.com/PaulStoffregen/Time
 - Max7219.h by Pawel A. Hernik
 
-Based on code of Pawel A. Hernik //https://www.youtube.com/watch?v=bePgZIXHSkM&feature=youtu.be
+Based on code of Pawel A. Hernik https://www.youtube.com/watch?v=bePgZIXHSkM&feature=youtu.be
