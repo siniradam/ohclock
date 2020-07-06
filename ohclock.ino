@@ -18,8 +18,8 @@ WiFiClient client;
 #include "fonts.h"
 
 const char* ssid     = "OhShift";      // SSID of local network
-const char* password = "this!sstep1";    // Password on network
-const char* YTchannel = "UCQx_2QbUD57AGx85Qi8XgcQ";   // YT user id
+const char* password = "";    // Password on network
+const char* YTchannel = "";   // YT user id
 // =======================================================================
 unsigned long t_unix_date1;
 
